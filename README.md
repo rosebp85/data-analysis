@@ -1,2 +1,2 @@
-#data-analysis
-A bank data analysis project in a csv file data is cleaned and normalized and a data analysis chart is drawn.
+# Data Analysis
+A bank data analysis project in a CSV file. Data is cleaned, normalized, and a data analysis chart is drawn.
