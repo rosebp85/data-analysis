@@ -9,3 +9,7 @@ you can check maximum pay and recive in data and see the monethly chart just a c
 ![My Image](./images/4th.PNG)
 ![My Image](./images/5th.PNG)
 
+# My-resume
+click on link below to check my resume
+
+https://rosebp85.github.io/resume/
